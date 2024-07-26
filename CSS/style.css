@@ -17,8 +17,6 @@
   font-family: sans-serif;
 }
 
-h1
-p
 l1{
   color: var(--color-Dark-Charcoal);
 }
@@ -35,4 +33,13 @@ section {
 }
 #Duration Details{
 background-color: var(--color-rose-white);
+padding: 1rem;
+border-radius: 1rem;
+}
+table{
+  width: 100%;
+}
+
+td{
+  width: 50%;
 }
