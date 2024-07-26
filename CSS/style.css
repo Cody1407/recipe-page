@@ -60,6 +60,8 @@ table {
 
 td {
   width: 50%;
+  border-bottom: 2px solid black;
+  border-bottom: 1px solid #d3d1d1
 }
 
 main {
