@@ -55,13 +55,13 @@ section {
   border-radius: 1rem;
 }
 table {
-  width: 100%;
+  width: 70%;
 }
 
 td {
   width: 50%;
   border-bottom: 2px solid black;
-  border-bottom: 1px solid #d3d1d1
+  border-bottom: 1px solid #d3d1d1;
 }
 
 main {
