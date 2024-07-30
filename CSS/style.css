@@ -27,8 +27,13 @@
   font-style: normal;
 }
 
-h1,
-p,
+#ing li::marker {
+  color: var(--color-nutmeg);
+}
+
+#steps li::marker {
+  color: var(--color-nutmeg);
+}
 l1 {
   color: var(--color-dark-charcoal);
 }
@@ -48,6 +53,10 @@ section {
   padding: 0;
   border-radius: 1rem;
   overflow: hidden;
+}
+
+#duration-details li::marker {
+  color: var(--color-dark-raspberry);
 }
 #duration-details {
   background-color: var(--color-rose-white);
@@ -82,4 +91,8 @@ main {
     padding: 1rem;
     border-radius: 1rem;
   }
+}
+
+#attribution{
+  font-size: 25px;
 }
